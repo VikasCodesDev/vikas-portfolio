@@ -1,13 +1,13 @@
 import React from "react";
-import { FaInstagram, FaXTwitter, FaLinkedin } from "react-icons/fa6";
+import { FaInstagram, FaXTwitter, FaLinkedin, FaGithub } from "react-icons/fa6";
 
 const Footer = () => {
   return (
     <footer className="w-full py-6 bg-black/55 text-white flex flex-col items-center gap-4">
-
+      
       {/* Social Handles */}
       <div className="flex gap-6">
-
+        
         <a
           href="https://www.instagram.com/vikas01/?hl=en#"
           target="_blank"
@@ -33,6 +33,16 @@ const Footer = () => {
           className="hover:text-blue-500 transition duration-300"
         >
           <FaLinkedin size={24} />
+        </a>
+
+        {/* GitHub Added */}
+        <a
+          href="https://github.com/VikasCodesDev"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:text-gray-400 transition duration-300"
+        >
+          <FaGithub size={24} />
         </a>
 
       </div>
