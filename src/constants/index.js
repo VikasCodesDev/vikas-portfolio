@@ -227,18 +227,18 @@ const testimonials = [
   },
   {
     testimonial:
-      "He builds modern, fast, and user-friendly web applications with a strong focus on performance and seamless user experience.",
-    name: "Rohan Oberoi",
-    designation: "Tech Lead",
-    company: "DevSphere Technologies",
-    image: secondTestimonial,
-  },
-  {
-    testimonial:
       "Vikas has an exceptional eye for visuals. His ability to create stunning visual generations and creative designs truly sets his work apart.",
     name: "Pratham Batra",
     designation: "Co-Founder",
     company: "Geek Room",
+    image: secondTestimonial,
+  },
+  {
+    testimonial:
+      "Vikas combines technical expertise with creative excellence. From development to visual execution, his work reflects precision, innovation and strong ownership mindset.",
+    name: "Kartik Singh",
+    designation: "Co-Founder",
+    company: "CodeCap Community",
     image: thirdTestimonial,
   },
 ];
