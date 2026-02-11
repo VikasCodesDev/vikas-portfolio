@@ -21,7 +21,7 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Vikas</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I build scalable MERN applications, blending data, automation, AI learning, and intuitive UI/UX design.<br/>
+            MERN developer blending data, AI, and intuitive design.<br/>
           </p>
         </div>
       </div>
