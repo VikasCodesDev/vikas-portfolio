@@ -245,9 +245,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "WebForge Studio — Modern Website Builder",
+    name: "CineVerse – AI-Powered Web Series Recommendation Platform",
     description:
-      "WebForge Studio is a modern website creation and management platform focused on performance, scalability, and stunning UI. It enables businesses to launch fast, responsive, and SEO-optimized websites with a smooth admin experience.",
+      "CineVerse is a modern AI-powered web series recommendation platform featuring personalized suggestions, TMDB integration, and a  cinematic retro UI, built for performance and scalability.",
     tags: [
       {
         name: "react",
@@ -264,14 +264,6 @@ const projects = [
       {
         name: "mongodb",
         color: "green-text-gradient",
-      },
-      {
-        name: "seo",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "cms",
-        color: "pink-text-gradient",
       },
     ],
     image: project2,

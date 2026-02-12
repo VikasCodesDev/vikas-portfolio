@@ -12,7 +12,7 @@ import css from "./tech/css.png";
 import figma from "./tech/figma.png";
 import vibenova from './vibenova.png';
 import project3 from './datasightai.png';
-import project2 from './webforge.png'
+import project2 from './CineVerse_preview.png'
 import mysql from './tech/mysql.png';
 import express from './tech/express.png';
 import aws from './tech/aws.png';
