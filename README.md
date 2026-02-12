@@ -1,4 +1,4 @@
-# 🚀 Vikas Mishra – Developer Portfolio
+# 🚀 Vikas Mishra - Portfolio
 
 ![Portfolio Preview](./vikas-portfolio_preview.png)
 
