@@ -2,7 +2,7 @@
 
 ![Portfolio Preview](./vikas-portfolio_preview.png)
 
-![Next.js](https://img.shields.io/badge/Next.js-14-00d9ff?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-14-red?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge)
 ![React.js](https://img.shields.io/badge/React.js-14-00d9ff?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-5-yellow?style=for-the-badge)
