@@ -1,4 +1,4 @@
-# 🚀 Vikas Mishra - Portfolio
+# Vikas Mishra - Portfolio 🚀 
 
 ![Portfolio Preview](./vikas-portfolio_preview.png)
 
