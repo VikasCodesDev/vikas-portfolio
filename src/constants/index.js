@@ -267,7 +267,7 @@ const projects = [
       },
     ],
     image: project2,
-    source_code_link: "https://github.com/VikasCodesDev/vikas-portfolio",
+    source_code_link: "https://github.com/VikasCodesDev/cineverse",
   },
   {
     name: "VibeNova – AI Mood Based Experience Platform",
