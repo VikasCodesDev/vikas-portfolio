@@ -9,7 +9,7 @@ import {
   menu,
   close,
   css,
-  vibenova,
+  emora,
   project2,
   project3,
   mysql,
@@ -69,7 +69,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Data Analyst",
+    title: "Creative Technologist",
     icon: backend,
   },
   {
@@ -156,16 +156,16 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Data Analyst and Automation Intern",
+    title: "Full Stack (MERN) Developer Intern",
     company_name: "Abhijay Global Solutions LLP.",
     icon: ags, // make sure this is imported
     iconBg: "#383E56",
     date: "July 2025 - December 2025",
     points: [
-      "Developing and maintaining data analytics workflows using Python, SQL, and automation tools.",
-      "Collaborating with cross-functional teams to translate business requirements into actionable insights.",
-      "Building automated dashboards and data pipelines to improve efficiency.",
-      "Analyzing performance metrics to support data-driven decision-making.",
+      "Developing and maintaining full-stack web applications using MongoDB, Express.js, React, and Node.js.",
+      "Designing responsive user interfaces and implementing RESTful APIs for seamless frontend-backend integration.",
+      "Building scalable data models and optimizing application performance for real-world logistics operations.",
+      "Collaborating with teams to deliver reliable features, automation tools, and efficient workflow solutions.",
     ],
   },
 
@@ -270,16 +270,16 @@ const projects = [
     source_code_link: "https://github.com/VikasCodesDev/cineverse",
   },
   {
-    name: "VibeNova – AI Mood Based Experience Platform",
+    name: "Emora – Futuristic Gen-Z AI Social Platform",
     description:
-      "VibeNova is a next-gen web application that uses AI-powered mood detection to deliver personalized music, visuals, memes, and aesthetic content. It blends emotion-aware intelligence with a Gen-Z focused UI to create immersive, shareable digital experiences.",
+      "Emora is an AI-powered Gen-Z social platform delivering mood-based content, smart interactions, and dynamic modules in a sleek immersive UI. Built for personalized real-time engagement with a strong focus on aesthetics, performance, and scalability.",
     tags: [
       {
-        name: "react",
+        name: "typescript",
         color: "blue-text-gradient",
       },
       {
-        name: "node",
+        name: "next.js",
         color: "green-text-gradient",
       },
       {
@@ -290,9 +290,13 @@ const projects = [
         name: "mongodb",
         color: "pink-text-gradient",
       },
+      {
+        name: "ai",
+        color: "orange-text-gradient",
+      },
     ],
-    image: vibenova,
-    source_code_link: "https://github.com/",
+    image: emora,
+    source_code_link: "https://github.com/VikasCodesDev/emora",
   },
   {
     name: "DataSight AI – Smart Data Analytics & Visualization Platform",

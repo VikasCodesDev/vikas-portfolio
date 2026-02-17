@@ -10,7 +10,7 @@ import gsap from './tech/gsap.png'
 import framer from './tech/framer.png';
 import css from "./tech/css.png";
 import figma from "./tech/figma.png";
-import vibenova from './vibenova.png';
+import emora from './emora_preview.png';
 import project3 from './datasightai.png';
 import project2 from './CineVerse_preview.png'
 import mysql from './tech/mysql.png';
@@ -40,7 +40,7 @@ export {
   menu,
   close,
   css,
-  vibenova,
+  emora,
   project2,
   project3,
   mysql,
