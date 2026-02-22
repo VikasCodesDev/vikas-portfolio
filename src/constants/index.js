@@ -270,7 +270,7 @@ const projects = [
       color: "purple-text-gradient",
     },
     ],
-    image: project2,
+    image: project3,
     source_code_link: "https://github.com/VikasCodesDev/sentience",
   },
   {
@@ -324,7 +324,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: project3,
+    image: project2,
     source_code_link: "/https://github.com/VikasCodesDev/cineverse",
   },
 ];
