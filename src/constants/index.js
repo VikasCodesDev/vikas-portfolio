@@ -276,7 +276,7 @@ const projects = [
   {
     name: "Emora – Futuristic Gen-Z AI Social Platform",
     description:
-      "Emora is an AI-powered Gen-Z social platform delivering mood-based content, smart interactions, and dynamic modules in a sleek immersive UI. Built for personalized real-time engagement with a strong focus on aesthetics, performance, and scalability.",
+      "Emora is a high-performance AI-powered Gen-Z social platform built to deliver personalized content based on mood, trends, and user interactions. It integrates multiple entertainment and utility modules into a unified immersive experience, featuring real-time engagement, intelligent recommendations, and a futuristic interface. Designed with a scalable full-stack architecture, it emphasizes speed, interactivity, and aesthetic excellence for modern digital audiences.",
     tags: [
       {
         name: "typescript",
@@ -303,9 +303,9 @@ const projects = [
     source_code_link: "https://github.com/VikasCodesDev/emora",
   },
   {
-    name: "CineVerse – AI-Powered Web Series Recommendation Platform",
+    name: "CineVerse – AI Powered Web Series Recommendation Platform",
     description:
-      "CineVerse is a modern AI-powered web series recommendation platform featuring personalized suggestions, TMDB integration, and a  cinematic retro UI, built for performance and scalability.",
+      "CineVerse is an AI-powered web series recommendation platform designed to deliver personalized viewing suggestions through intelligent algorithms and TMDB integration. It features a cinematic retro-inspired interface combined with real-time data, fast performance, and scalable architecture.",
     tags: [
       {
         name: "react",
