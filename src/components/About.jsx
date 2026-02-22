@@ -72,7 +72,7 @@ const About = () => {
       </div>
 
       <p ref={paragraphRef} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I'm a passionate software developer with strong expertise in modern web development, visual experience creation, and data analytics. I work extensively with JavaScript, React, Node.js, and MongoDB to build fast, scalable, and user-friendly applications. From crafting immersive UI & UX experiences to analyzing data and extracting meaningful insights, I enjoy turning complex ideas into impactful digital solutions. I'm a quick learner, detail-oriented, and always focused on building products that solve real-world problems.
+        I'm a passionate software developer with strong expertise in modern web development and visual experience creation. I work extensively with JavaScript, TypeScript, React, Node.js, and MongoDB to build fast, scalable, and user-friendly applications. From crafting immersive UI & UX experiences to developing robust full-stack systems, I enjoy turning complex ideas into impactful digital solutions. I'm a quick learner, detail-oriented, and always focused on building products that solve real-world problems.
       </p>
 
       <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-items-center gap-10">

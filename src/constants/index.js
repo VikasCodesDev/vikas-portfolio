@@ -219,7 +219,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Vikas is highly skilled in data analytics. He transforms raw data into meaningful insights that help drive better decisions and measurable results.",
+      "Vikas is highly skilled in full-stack web development. He builds scalable, high-performance applications that deliver seamless user experiences and solve real-world problems through clean architecture and modern technologies.",
     name: "Vijay Mishra",
     designation: "CEO",
     company: "Abhijay Global Solutions LLP.",
