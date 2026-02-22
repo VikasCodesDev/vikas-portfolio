@@ -11,7 +11,7 @@ import framer from './tech/framer.png';
 import css from "./tech/css.png";
 import figma from "./tech/figma.png";
 import emora from './emora_preview.png';
-import project3 from './datasightai.png';
+import project3 from './sentience_preview.png';
 import project2 from './CineVerse_preview.png'
 import mysql from './tech/mysql.png';
 import express from './tech/express.png';

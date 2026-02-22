@@ -245,29 +245,33 @@ const testimonials = [
 
 const projects = [
   {
-    name: "CineVerse – AI-Powered Web Series Recommendation Platform",
+    name: "Sentience — Advanced AI Consciousness Interface",
     description:
-      "CineVerse is a modern AI-powered web series recommendation platform featuring personalized suggestions, TMDB integration, and a  cinematic retro UI, built for performance and scalability.",
+      "Sentience is a high-performance AI-powered interface built to simulate a digital consciousness system. It delivers real-time conversational intelligence, file and image understanding, and context-aware assistance through a futuristic terminal-style UI. Designed with a scalable full-stack architecture, it combines speed, reliability, and immersive design for next-generation AI experiences.",
     tags: [
       {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "white-text-gradient",
-      },
-      {
-        name: "node",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
+      name: "nextjs",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "tailwind",
+      color: "white-text-gradient",
+    },
+    {
+      name: "node",
+      color: "pink-text-gradient",
+    },
+    {
+      name: "express",
+      color: "green-text-gradient",
+    },
+    {
+      name: "groq-ai",
+      color: "purple-text-gradient",
+    },
     ],
     image: project2,
-    source_code_link: "https://github.com/VikasCodesDev/cineverse",
+    source_code_link: "https://github.com/VikasCodesDev/sentience",
   },
   {
     name: "Emora – Futuristic Gen-Z AI Social Platform",
@@ -299,25 +303,29 @@ const projects = [
     source_code_link: "https://github.com/VikasCodesDev/emora",
   },
   {
-    name: "DataSight AI – Smart Data Analytics & Visualization Platform",
+    name: "CineVerse – AI-Powered Web Series Recommendation Platform",
     description:
-      "DataSight AI is a powerful analytics platform that transforms raw data into actionable insights through interactive dashboards, real-time charts, and intelligent data processing. Built for decision-makers who want clarity, speed, and precision.",
+      "CineVerse is a modern AI-powered web series recommendation platform featuring personalized suggestions, TMDB integration, and a  cinematic retro UI, built for performance and scalability.",
     tags: [
       {
-        name: "dataanalytics",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "charts",
-        color: "green-text-gradient",
+        name: "tailwind",
+        color: "white-text-gradient",
+      },
+      {
+        name: "node",
+        color: "pink-text-gradient",
       },
       {
         name: "mongodb",
-        color: "violet-text-gradient",
+        color: "green-text-gradient",
       },
     ],
     image: project3,
-    source_code_link: "https://github.com/",
+    source_code_link: "/https://github.com/VikasCodesDev/cineverse",
   },
 ];
 
