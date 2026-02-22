@@ -267,7 +267,7 @@ const projects = [
     },
     {
       name: "groq-ai",
-      color: "purple-text-gradient",
+      color: "orange-text-gradient",
     },
     ],
     image: project3,
@@ -276,7 +276,7 @@ const projects = [
   {
     name: "Emora – Futuristic Gen-Z AI Social Platform",
     description:
-      "Emora is a high-performance AI-powered Gen-Z social platform built to deliver personalized content based on mood, trends, and user interactions. It integrates multiple entertainment and utility modules into a unified immersive experience, featuring real-time engagement, intelligent recommendations, and a futuristic interface. Designed with a scalable full-stack architecture, it emphasizes speed, interactivity, and aesthetic excellence for modern digital audiences.",
+      "Emora is a high-performance AI-powered Gen-Z social platform built to deliver personalized content based on mood, trends, and user interactions. It integrates multiple entertainment and utility modules into a unified immersive experience, featuring real-time engagement, intelligent recommendations, and a futuristic interface. Designed with a scalable full-stack architecture.",
     tags: [
       {
         name: "typescript",
