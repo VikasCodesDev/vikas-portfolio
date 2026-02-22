@@ -325,7 +325,7 @@ const projects = [
       },
     ],
     image: project2,
-    source_code_link: "/https://github.com/VikasCodesDev/cineverse",
+    source_code_link: "https://github.com/VikasCodesDev/cineverse",
   },
 ];
 
