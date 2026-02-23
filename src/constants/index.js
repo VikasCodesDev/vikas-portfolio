@@ -227,7 +227,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Vikas has an exceptional eye for visuals. His ability to create stunning visual generations and creative designs truly sets his work apart.",
+      "Vikas has an exceptional eye for design and visual storytelling. He creates stunning visuals and creative assets that enhance user engagement and elevate overall project quality through thoughtful design and attention to detail.",
     name: "Pratham Batra",
     designation: "Co-Founder",
     company: "Geek Room",
@@ -235,7 +235,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Vikas delivers high-quality creative and technical work with strong design and development expertise. He is a valuable asset to any project.",
+      "Vikas delivers high-quality creative and technical work with strong design sense and development expertise. He approaches every project professionally, ensuring reliable execution, polished results, and meaningful impact.",
     name: "Kartik Singh",
     designation: "Co-Founder",
     company: "CodeCap Community",

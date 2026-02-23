@@ -55,11 +55,11 @@ const ProjectCard = ({
         }}
         className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full"
       >
-        <div className="relative w-full h-[230px]">
+        <div className="relative w-full h-[280px]">
           <img
             src={image}
             alt="project_image"
-            className="w-full h-full object-contain object-left rounded-2xl"
+            className="w-full h-full object-contain object-center rounded-2xl"
           />
 
           <div className="absolute top-5 right-3 flex justify-end card-img_hover">
