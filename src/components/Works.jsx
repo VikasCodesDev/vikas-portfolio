@@ -62,7 +62,7 @@ const ProjectCard = ({
             className="w-full h-full object-contain object-left rounded-2xl"
           />
 
-          <div className="absolute top-3 right-3 flex justify-end card-img_hover">
+          <div className="absolute top-5 right-3 flex justify-end card-img_hover">
             <div
               onClick={() => window.open(source_code_link, "_blank")}
               className="black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
