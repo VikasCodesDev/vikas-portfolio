@@ -333,27 +333,27 @@ const projects = [
       "PersonaX is an AI-powered personality simulation platform that allows users to interact with dynamic virtual personas in real time. It leverages advanced language models to mimic human-like behavior, emotions, and conversation styles. The platform features an immersive futuristic interface, customizable characters, persistent memory, and fast, scalable performance for engaging AI-driven interactions.",
 
     tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "white-text-gradient",
-      },
-      {
-      name: "node",
-      color: "green-text-gradient",
-      },
-      {
-      name: "mongodb",
-      color: "red-text-gradient",
-      },
-      {
-      name: "ai",
-      color: "orange-text-gradient",
-      },
-    ],
+  {
+    name: "react",
+    color: "blue-text-gradient",
+  },
+  {
+    name: "tailwind",
+    color: "white-text-gradient",
+  },
+  {
+    name: "node",
+    color: "pink-text-gradient",
+  },
+  {
+    name: "mongodb",
+    color: "green-text-gradient",
+  },
+  {
+    name: "ai",
+    color: "orange-text-gradient",
+  },
+],
 
       image: PersonaX,
       source_code_link: "https://github.com/VikasCodesDev/personax",
