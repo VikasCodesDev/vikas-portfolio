@@ -44,7 +44,7 @@ export {
   emora,
   project2,
   project3,
-  PersonaX
+  PersonaX,
   mysql,
   express,
   aws,
