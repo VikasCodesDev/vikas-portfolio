@@ -13,7 +13,7 @@ import figma from "./tech/figma.png";
 import emora from './emora_preview.png';
 import project3 from './sentience_preview.png';
 import project2 from './CineVerse_preview.png'
-import PersonaX from './PersonaX_preview.png';
+import project4 from './PersonaX_preview.png';
 import mysql from './tech/mysql.png';
 import express from './tech/express.png';
 import aws from './tech/aws.png';
@@ -44,7 +44,7 @@ export {
   emora,
   project2,
   project3,
-  PersonaX,
+  project4,
   mysql,
   express,
   aws,

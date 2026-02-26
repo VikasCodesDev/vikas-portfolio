@@ -32,6 +32,7 @@ import {
   firstTestimonial,
   secondTestimonial,
   thirdTestimonial,
+  project4,
 } from '../assets'
 
 
@@ -355,7 +356,7 @@ const projects = [
   },
 ],
 
-      image: PersonaX,
+      image: project4,
       source_code_link: "https://github.com/VikasCodesDev/personax",
   },
 ];
