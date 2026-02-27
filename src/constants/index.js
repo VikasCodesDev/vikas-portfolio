@@ -66,7 +66,7 @@ const services = [
     icon: web,
   },
   {
-    title: "UI UX Designer",
+    title: "UI/UX Designer",
     icon: mobile,
   },
   {
