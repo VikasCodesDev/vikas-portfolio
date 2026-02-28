@@ -58,7 +58,7 @@ const Footer = () => {
           rel="noopener noreferrer"
           className="text-white font-semibold hover:text-pink-400 transition"
         >
-          Vikas
+          Vikas Mishra
         </a>
       </p>
 
