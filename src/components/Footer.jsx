@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="flex gap-6">
         
         <a
-          href="https://www.instagram.com/vikas01/?hl=en#"
+          href="https://www.instagram.com/vikas01_____?igsh=MW1xNTI2bDBndHBtNQ=="
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-pink-400 transition duration-300"
