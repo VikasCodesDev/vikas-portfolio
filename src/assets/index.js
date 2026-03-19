@@ -14,6 +14,7 @@ import emora from './emora_preview.png';
 import project3 from './sentience_preview.png';
 import project2 from './CineVerse_preview.png'
 import project4 from './PersonaX_preview.png';
+import project5 from './nexusos_preview.png';
 import mysql from './tech/mysql.png';
 import express from './tech/express.png';
 import aws from './tech/aws.png';
@@ -45,6 +46,7 @@ export {
   project2,
   project3,
   project4,
+  project5,
   mysql,
   express,
   aws,

@@ -359,6 +359,38 @@ const projects = [
       image: project4,
       source_code_link: "https://github.com/VikasCodesDev/personax",
   },
+  {
+  name: "Nexus – The Next Gen Gaming OS",
+
+  description:
+    "Nexus is a futuristic full-stack gaming OS platform that brings together your entire gaming ecosystem in one place. It features a personalized game library, real-time gaming news, an AI-powered copilot, and a sleek OS-like interface. Designed with a Gen-Z aesthetic, Nexus delivers a smooth, immersive experience with fast performance and scalable architecture.",
+
+  tags: [
+    {
+      name: "next.js",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "tailwind",
+      color: "white-text-gradient",
+    },
+    {
+      name: "node",
+      color: "pink-text-gradient",
+    },
+    {
+      name: "mongodb",
+      color: "green-text-gradient",
+    },
+    {
+      name: "ai",
+      color: "orange-text-gradient",
+    },
+  ],
+
+      image: project5,
+      source_code_link: "https://github.com/VikasCodesDev/nexus",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
