@@ -247,7 +247,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Sentience — Advanced AI Consciousness Interface",
+    name: "Sentience - Advanced AI Consciousness Interface",
     description:
       "Sentience is a high-performance AI-powered interface built to simulate a digital consciousness system. It delivers real-time conversational intelligence, file and image understanding, and context-aware assistance through a futuristic terminal-style UI. Designed with a scalable full-stack architecture, it combines speed, reliability, and immersive design for next-generation AI experiences.",
     tags: [
@@ -363,7 +363,7 @@ const projects = [
   name: "Nexus – The Next Gen Gaming OS",
 
   description:
-    "Nexus is a futuristic full-stack gaming OS platform that brings together your entire gaming ecosystem in one place seamlessly. It features a personalized game library, real-time gaming news, an AI-powered copilot, and a sleek OS-like interface. Designed with a Gen-Z aesthetic, Nexus delivers a smooth, immersive experience with fast performance and scalable architecture.",
+    "Nexus is a futuristic full-stack gaming OS platform that brings together your entire gaming ecosystem in one place seamlessly. It features a personalized game library, real-time gaming news, an AI-powered copilot, and a sleek OS-like interface. Designed with a Gen-Z aesthetic, Nexus delivers a smooth, immersive experience with fast performance and scalable architecture in one place with seamless integration.",
 
   tags: [
     {
