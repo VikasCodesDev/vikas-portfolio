@@ -33,6 +33,7 @@ import {
   secondTestimonial,
   thirdTestimonial,
   project4,
+  project5,
 } from '../assets'
 
 
@@ -355,7 +356,6 @@ const projects = [
     color: "orange-text-gradient",
   },
 ],
-
       image: project4,
       source_code_link: "https://github.com/VikasCodesDev/personax",
   },
