@@ -240,7 +240,7 @@ const testimonials = [
     testimonial:
       "Vikas delivers high-quality creative and technical work with strong design sense and development expertise. He approaches every project professionally, ensuring reliable execution, polished results, and meaningful impact.",
     name: "Kartik Singh",
-    designation: "Co-Founder",
+    designation: "Founder",
     company: "CodeCap Community",
     image: thirdTestimonial,
   },
