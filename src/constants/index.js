@@ -412,10 +412,6 @@ const projects = [
       color: "pink-text-gradient",
     },
     {
-      name: "mongodb",
-      color: "green-text-gradient",
-    },
-    {
       name: "groq-ai",
       color: "orange-text-gradient",
     },
