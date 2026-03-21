@@ -396,7 +396,7 @@ const projects = [
   name: "DecideAI - AI Powered Decision Engine",
 
   description:
-    "DecideAI is an AI-powered full-stack decision-making platform that helps users analyze real-life situations with clarity and confidence. It provides probability-based insights, structured outcomes (best, worst, most likely), and smart recommendations through a clean and minimal interface. Designed for practical use, DecideAI transforms complex choices into simple, actionable decisions with fast performance and seamless user experience.",
+    "DecideAI is an AI-powered full-stack decision-making platform that helps users analyze real-life situations with clarity and confidence. It provides probability-based insights, structured outcomes (best, worst, most likely), and smart recommendations through a clean and minimal interface. Designed for practical use, DecideAI transforms complex choices into simple, actionable decisions.",
 
   tags: [
     {
