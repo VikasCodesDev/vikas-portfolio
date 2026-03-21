@@ -34,6 +34,7 @@ import {
   thirdTestimonial,
   project4,
   project5,
+  project6,
 } from '../assets'
 
 
