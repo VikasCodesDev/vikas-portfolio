@@ -391,6 +391,38 @@ const projects = [
       image: project5,
       source_code_link: "https://github.com/VikasCodesDev/nexus",
   },
+  {
+  name: "DecideAI - AI Powered Decision Engine",
+
+  description:
+    "DecideAI is an AI-powered full-stack decision-making platform that helps users analyze real-life situations with clarity and confidence. It provides probability-based insights, structured outcomes (best, worst, most likely), and smart recommendations through a clean and minimal interface. Designed for practical use, DecideAI transforms complex choices into simple, actionable decisions with fast performance and seamless user experience.",
+
+  tags: [
+    {
+      name: "next.js",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "tailwind",
+      color: "white-text-gradient",
+    },
+    {
+      name: "node",
+      color: "pink-text-gradient",
+    },
+    {
+      name: "mongodb",
+      color: "green-text-gradient",
+    },
+    {
+      name: "groq-ai",
+      color: "orange-text-gradient",
+    },
+  ],
+
+  image: project6,
+  source_code_link: "https://github.com/VikasCodesDev/decideai",
+}
 ];
 
 export { services, technologies, experiences, testimonials, projects };

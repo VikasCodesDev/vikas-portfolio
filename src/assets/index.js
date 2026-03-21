@@ -15,6 +15,7 @@ import project3 from './sentience_preview.png';
 import project2 from './CineVerse_preview.png'
 import project4 from './PersonaX_preview.png';
 import project5 from './nexusos_preview.png';
+import project6 from './decideai_preview.png';
 import mysql from './tech/mysql.png';
 import express from './tech/express.png';
 import aws from './tech/aws.png';
@@ -47,6 +48,7 @@ export {
   project3,
   project4,
   project5,
+  project6,
   mysql,
   express,
   aws,
